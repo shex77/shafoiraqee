@@ -4,15 +4,15 @@ import datetime
 import time
 import requests
 import sys
-os.system("xdg-open https://www.instagram.com/ani.coder/")
+os.system("xdg-open https://instagram.com/sha_fo_ka?igshid=10d9dq0j3k23u")
 def emil():
     os.system("clear")
     a='''\033[1;36m
     ##########################
-    #  INSATGRAM \ ani.codwe
-    #  SNAPCHAT  \ vx.dana0
-    #  TELGRAM    \ Danyarr
-    #  Program language Python
+    #  INSATGRAM \ sha_fo_ka
+    #  SNAPCHAT  \ br35308
+    #  TELGRAM    \ shafoiraqe
+    #  Program language iraqe
     #  (:
     # TOOL :  INSTAGRAM HACK
     ##########################
@@ -40,7 +40,7 @@ def chekerinsta():
     os.system("clear")
     season='''\033[1;36m
     ###########
-    @ANI.CODER
+    @shafo_iraqe
     ###########
     \033[1;37m
     
@@ -101,7 +101,7 @@ def cheker():
     ani='''\033[0;33m
     ###############
     
-    KURD SAFE TEAM   
+    SHAFO IRAQE  
     
     ###############
     
